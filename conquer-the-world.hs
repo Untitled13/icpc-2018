@@ -1,6 +1,3 @@
-{-
-/Users/cal/Desktop/cs/haskell/problems/icpc/worlds/2018/conquer-the-world.hs
--}
 
 import Data.List
 import Data.Function
