@@ -1,6 +1,3 @@
-{-
-:l /Users/cal/Desktop/cs/haskell/problems/catch-the-plane.hs
--}
 
 import Data.Maybe
 
