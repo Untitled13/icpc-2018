@@ -1,6 +1,4 @@
-{-
-:l /Users/cal/Desktop/cs/haskell/problems/icpc/worlds/2018/gem-island.hs
--}
+
 import Data.Matrix
 import Data.List
 import Control.Applicative
