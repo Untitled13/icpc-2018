@@ -1,6 +1,4 @@
-{-
-:l /Users/cal/Desktop/cs/haskell/problems/icpc/worlds/2018/comma-sprinkler.hs
--}
+
 import Data.Char
 import Data.Function
 import Data.List
